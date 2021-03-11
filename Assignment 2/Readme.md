@@ -1,4 +1,4 @@
-# CMPE-259 Deep Learning Assignment 2
+# CMPE-258 Deep Learning Assignment 2
 
 ## Part 1: Google Cloud AI Platform Unified Tutorials
 
