@@ -14,5 +14,5 @@
 ### Timeseries forecasting models
 Successfully went through all the steps in the tutorial, did run into some errors but managed to resolve them and complete the tutorial.
 
-### End-to-end Deployment of a Vision Model Using Automl-kit to IOS Mobile device
+### End-to-end Deployment of a Vision Model Using Automl-kit to iOS Mobile device
 Successfully integrated the image data from the Google Cloud AI Platform tutorial and integrated it with the iOS simulator.
